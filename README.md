@@ -6,9 +6,19 @@ This repository contains blockchain transaction and block data exports:
 - ETH transactions from June 14, 2026 (block 25313676)
 - ETH blocks from June 1, 2026
 
+## Verbose Exports
+
+Detailed blockchain data files are included for analysis and auditing purposes. All transaction hashes, addresses, timestamps, and values are preserved in their original form.
+
 ## Security
 
-This repository is private. Do not share the clone URL or contents publicly.
+This repository is private. Do not share the clone URL or contents publicly. Secret scanning is enabled to protect sensitive data.
+
+## Environment
+
+- Private repository with restricted access
+- Secret scanning enabled
+- No public exposure of data
 
 ## Files
 
