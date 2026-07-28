@@ -1,0 +1,3 @@
+Block,Slot,Epoch,DateTime (UTC),BlobCount,Txn,Fee Recipient,Fee Recipient Nametag,Gas Used,Gas Used(%), % Of Gas Target,Gas Limit,Base Fee,Reward,Burnt Fees (ETH),Burnt Fees (%)
+"25220611","14455818","451744","2026-06-01 06:03:59","","394","0xdadb0d80178819f2319190d340ce9a924f783711","BuilderNet","51,435,285","85.73%","+71%","60,000,000","0.153 Gwei","0.01515 ETH","0.007887","34.23%"
+"25220610","14455817","451744","2026-06-01 06:03:47","","294","0xdadb0d80178819f2319190d340ce9a924f783711","BuilderNet","24,451,511","40.75%","-18%","60,000,000","0.156 Gwei","0.00996 ETH","0.003838","27.80%"
