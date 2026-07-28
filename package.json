@@ -1,0 +1,18 @@
+{
+  "name": "blockchain-exports",
+  "version": "1.0.0",
+  "description": "Blockchain data exports with Stripe Connect payout support",
+  "main": "scripts/stripe-payout.js",
+  "scripts": {
+    "payout": "node scripts/stripe-payout.js",
+    "payout:dry": "node scripts/stripe-payout.js --dry-run"
+  },
+  "dependencies": {
+    "stripe": "^17.0.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
