@@ -75,3 +75,11 @@ npm run payout
 - `eth-blocks-2026-06-01.csv` – Ethereum block data
 - `scripts/stripe-payout.js` – Stripe Connect payout script
 - `.env.example` – Environment variable template
+
+## License
+
+`docs/etherscan-api-index.md` is a copy of the Etherscan API documentation published at https://docs.etherscan.io/. Copyright in that page belongs to Etherscan. It is not relicensed under MIT or Apache-2.0. That copy stays under Etherscan's terms (https://etherscan.io/apiterms). This repository did not include a LICENSE file for that material, and none is added here.
+
+Pamela Richardson's own work in this repository is licensed under either of the Apache License, Version 2.0 or the MIT license, at your option.
+
+Copyright (c) 2026 Pamela Richardson.
