@@ -8,8 +8,8 @@
     "payout:dry": "node scripts/stripe-payout.js --dry-run"
   },
   "dependencies": {
-    "stripe": "^17.0.0",
-    "dotenv": "^16.4.5"
+    "stripe": "^23.1.0",
+    "dotenv": "^18.0.10"
   },
   "engines": {
     "node": ">=18"
