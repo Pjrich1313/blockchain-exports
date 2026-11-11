@@ -75,3 +75,11 @@ npm run payout
 - `eth-blocks-2026-06-01.csv` – Ethereum block data
 - `scripts/stripe-payout.js` – Stripe Connect payout script
 - `.env.example` – Environment variable template
+
+## License
+
+Pamela Richardson's own additions are all rights reserved. Use of that work requires a written license agreement signed by Pamela Richardson. Unless a different price is agreed in writing, the license fee is ten percent (10%) of all revenue earned from use of the work, including from each pool and each account that uses it. To request a license, contact Pamela Richardson through GitHub (Pjrich1313).
+
+`docs/etherscan-api-index.md` is copied Etherscan API documentation. That upstream material stays under Etherscan's original terms (https://etherscan.io/apiterms) and is not claimed as Pamela Richardson's work.
+
+See NOTICE.md.
